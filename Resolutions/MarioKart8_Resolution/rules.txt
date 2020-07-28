@@ -112,6 +112,13 @@ $gameHeight = 720
 // Common 16:10 Resolutions
 
 [Preset]
+name = 1280x800 (16:10)
+$width = 1280
+$height = 800 # 720x1.1
+$gameWidth = 1280
+$gameHeight = 720
+
+[Preset]
 name = 1440x936 (16:10)
 $width = 1440
 $height = 936 # 720x1.3
