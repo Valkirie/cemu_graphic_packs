@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
+name = Xbox One UI - Standard Layout
+path = "The Legend of Zelda: Breath of the Wild/Mods/Xbox One UI - SL - EU"
+description = Replaces the UI with a Xbox controller variant, Standard Layout.
+version = 4
